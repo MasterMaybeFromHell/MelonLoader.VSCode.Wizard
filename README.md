@@ -13,7 +13,7 @@ This extension takes care of all the tedious setup tasks involved in MelonLoader
 ## Usage
 
 1. **Install the Extension**:
-   - Download the extension from the [Visual Studio Code Marketplace]().
+   - Download the extension from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=masterhell.melonloader-vscode-wizard).
    - Alternatively, download it from the [Releases](https://github.com/MasterMaybeFromHell/MelonLoader.VSCode.Wizard/releases) tab.
 2. **Create a New Mod Project**:
    - Open the Command Palette (`Ctrl+Shift+P`) in Visual Studio Code.
